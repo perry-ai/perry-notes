@@ -5,6 +5,7 @@ export default defineConfig({
   title: "perry-note",
   description: "A blog bulid by VitePress",
   cleanUrls: true,
+  base: "/perry-notes/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
