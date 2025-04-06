@@ -16,7 +16,9 @@
 #### 2. **浏览器工作原理**
 
 - **核心机制**：
-  - [事件循环和界面渲染](./2.2.1-event-loop-rendering.svg)。
+  - 事件循环和界面渲染。
+    <!-- 外部 SVG 文件引用 -->
+    <img src="./2.2.1-event-loop-rendering.svg" alt="事件循环和界面渲染图示">
   - JavaScript 引擎（V8 引擎、垃圾回收）。
 - **工具**：Chrome DevTools、Lighthouse 性能分析。
 
