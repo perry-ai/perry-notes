@@ -38,7 +38,8 @@ export default defineConfig({
         text: '前端学习',
         items: [
           { text: '学习框架', link: '/study/2-frontend-concepts' },
-          { text: '基础知识', link: '/study/2.1.3-javascript-basics' },
+          { text: 'HTML5', link: '/study/2.1.1-html5' },
+          { text: 'JavaScript基础', link: '/study/2.1.3-javascript-basics' },
           { text: '异步编程', link: '/study/2.1.5-async-programming' },
           { text: '事件循环和界面渲染', link: '/study/2.2.1-event-loop-rendering.svg' },
           { text: '渲染模式', link: '/study/2.3.1-rendering-modes' },
