@@ -8,8 +8,8 @@
 
 - **定位**：前端开发的基石。
 - **关键内容**：
-  - HTML5（语义化标签、Web Components）。
-  - CSS3（Flexbox/Grid布局、动画、CSS-in-JS）。
+  - [HTML5](./2.1.1-html5.md)（语义化标签、Web Components）。
+  - [CSS3](./2.1.2-css3.md)（Flexbox/Grid布局、动画、CSS-in-JS）。
   - JavaScript：[基础知识](./2.1.3-javascript-basics)、ES6+、[异步编程](./2.1.5-async-programming)、原型链、模块化）
 - **学习重点**：浏览器兼容性、响应式设计、性能优化。
 
