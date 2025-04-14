@@ -42,7 +42,6 @@ export default defineConfig({
           { text: 'CSS3', link: '/study/2.1.2-css3' },
           { text: 'JavaScript基础', link: '/study/2.1.3-javascript-basics' },
           { text: '异步编程', link: '/study/2.1.5-async-programming' },
-          { text: '事件循环和界面渲染', link: '/study/2.2.1-event-loop-rendering.svg' },
           { text: '渲染模式', link: '/study/2.3.1-rendering-modes' },
           { text: 'SSR（服务端渲染）', link: '/study/2.3.2-ssr-csr-analysis-nuxt' },
           { text: 'Node.js', link: '/study/2.6.1-nodejs-browser-differences' },
